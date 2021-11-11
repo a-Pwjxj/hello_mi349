@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="secondary">true</entry>
+<entry key="special-2">true</entry>
+<entry key="special-1">true</entry>
+<entry key="primary">true</entry>
+<entry key="fight">true</entry>
+</properties>

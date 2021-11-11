@@ -1,0 +1,240 @@
+I 2021-11-03 04:42:28.873088 [Main] {Main} Logging started for Battle.net build 2.6.0.13147
+I 2021-11-03 04:42:28.873450 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2021-11-03 04:42:28.873960 [Configuration] {Main} RoamingConfigRoot: C:\Users\steve\AppData\Roaming\Battle.net
+I 2021-11-03 04:42:28.873984 [Configuration] {Main} LocalConfigRoot: C:\Users\steve\AppData\Local\Battle.net
+D 2021-11-03 04:42:28.874304 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.13147\Battle.net.config
+D 2021-11-03 04:42:28.874392 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.config
+D 2021-11-03 04:42:28.874979 [Configuration] {Main} User Configuration File: C:\Users\steve\AppData\Roaming\Battle.net\Battle.net.config
+I 2021-11-03 04:42:28.878017 [Main] {Main} Command line arguments: {[0]=--uri=battlenet:://starcraft/map/1/330462}
+I 2021-11-03 04:42:28.879996 [Main] {Main} Launched with uri: battlenet:://starcraft/map/1/330462
+I 2021-11-03 04:42:28.880348 [Main] {Main} Opening IPC shared memory. queueName=User:steve:Battle.net IPC ShMem mode=server
+I 2021-11-03 04:42:28.915331 [Frontend] {Main} Supplying list of renderers: d3d11,warp,desktop
+I 2021-11-03 04:42:29.284067 [LocalizationData] {Main} 21 language(s) loaded from languages.xml, default=enUS
+D 2021-11-03 04:42:29.420559 [Main] {Main} Adding application font: resources/fonts/BlizzardReg.ttf
+D 2021-11-03 04:42:29.422369 [Main] {Main} Adding application font: resources/fonts/BlizzardLig.ttf
+D 2021-11-03 04:42:29.423944 [Main] {Main} Adding application font: resources/fonts/BlizzardBol.ttf
+D 2021-11-03 04:42:29.425780 [Main] {Main} Adding application font: resources/fonts/NotoSans-Bold.ttf
+D 2021-11-03 04:42:29.431525 [Main] {Main} Adding application font: resources/fonts/NotoSans-BoldItalic.ttf
+D 2021-11-03 04:42:29.435599 [Main] {Main} Adding application font: resources/fonts/NotoSans-Italic.ttf
+D 2021-11-03 04:42:29.440705 [Main] {Main} Adding application font: resources/fonts/NotoSans-Regular.ttf
+D 2021-11-03 04:42:29.445979 [Main] {Main} Adding application font: resources/fonts/ObjectSans-Bold.ttf
+D 2021-11-03 04:42:29.448517 [Main] {Main} Adding application font: resources/fonts/ObjectSans-Medium.ttf
+D 2021-11-03 04:42:29.938430 [Main] {Main} Setting font to: Blizzard
+I 2021-11-03 04:42:29.939425 [CacheManager] {Main} Local storage cache at: C:\Users\steve\AppData\Local\Battle.net\Cache
+I 2021-11-03 04:42:29.942679 [Main] {Main} Opened database at: C:\Users\steve\AppData\Local\Battle.net\CachedData.db
+D 2021-11-03 04:42:29.943877 [Agent] {Main} PolicyHandler Thread STARTED
+D 2021-11-03 04:42:29.943891 [Agent] {Agent} PolicyHandlerThreadProc: I shall in all my best obey you.
+I 2021-11-03 04:42:30.002968 [DIAG_BNL_Voice] {Main} Audio device monitor using already-initialized COM
+I 2021-11-03 04:42:30.004338 [VoiceSessionBroker] {Main} Global voice is on
+I 2021-11-03 04:42:30.004608 [Main] {Main} Execution environment changed. environment=EE_STANDARD
+I 2021-11-03 04:42:30.005341 [CatalogManager] {Main} Loaded catalog hash from the database cache. hash=cefeaae67d6b5f7d8417a7e3b87c8473
+I 2021-11-03 04:42:30.006288 [CatalogManager] {Main} Built-in catalog hash (catalog/digesthash.txt): 90e3b05fb9eccb5ddf1b92175febd47a
+I 2021-11-03 04:42:30.006512 [CatalogManager] {Main} Built-in catalog hash (catalog/signaturehash.txt): 5823846f81b1a8900de7c99437851ca0
+I 2021-11-03 04:42:30.006552 [CatalogLoader] {Main} *** LOAD STARTED default: Context(LocalCAS: cefeaae67d6b5f7d8417a7e3b87c8473 I) ***
+I 2021-11-03 04:42:30.059045 [Agent] {Agent} Agent has different session: 12749391293988140715
+I 2021-11-03 04:42:30.059071 [Agent] {Agent} Agent Version is now: 2.25.1.7531 (retail)
+I 2021-11-03 04:42:30.242695 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=s2_enus, type=game, opStatus=On, reqId=0, running=1, oldRunning=0)
+D 2021-11-03 04:42:30.412414 [Agent] {Agent} GameResource created for uid: agent
+D 2021-11-03 04:42:30.412458 [Agent] {Agent} GameResource created for uid: battle.net
+D 2021-11-03 04:42:30.412470 [Agent] {Agent} GameResource created for uid: prometheus
+D 2021-11-03 04:42:30.412480 [Agent] {Agent} GameResource created for uid: s2_enus
+W 2021-11-03 04:42:30.512770 [FeatureManager] {Main} Feature 'battle.net_http_request_0_c6caed0e' depends on missing feature 'http_test'
+E 2021-11-03 04:42:30.512795 [FeatureManager] {Main} Feature 'battle.net_http_request_0_c6caed0e' has dependency errors and will not respond to dependency changes
+I 2021-11-03 04:42:30.512817 [FeatureManager] {Main} Moving feature record from active to inactive: whisper_voice
+I 2021-11-03 04:42:30.512822 [FeatureManager] {Main} Moving feature record from active to inactive: trace_route
+I 2021-11-03 04:42:30.512831 [FeatureManager] {Main} Feature changed: hearthstone_limited_event_57b4aca6=true
+I 2021-11-03 04:42:30.512847 [FeatureManager] {Main} Feature changed: fore_limited_alpha_f6824657=true
+I 2021-11-03 04:42:30.512853 [FeatureManager] {Main} Feature changed: fore_prepurchase_fore_fef83a73=true
+I 2021-11-03 04:42:30.512860 [FeatureManager] {Main} Feature changed: lazarus_show_on_beta_5bbf784c=true
+I 2021-11-03 04:42:30.512866 [FeatureManager] {Main} Feature changed: odin_deprecate_event_21bf1dc9=true
+I 2021-11-03 04:42:30.512872 [FeatureManager] {Main} Feature changed: odin_show_on_beta_5bbf784c=true
+I 2021-11-03 04:42:30.512877 [FeatureManager] {Main} Feature changed: odin_zeus_base_license_3fcdd4b4=true
+I 2021-11-03 04:42:30.512883 [FeatureManager] {Main} Feature changed: osi_limited_install_773b93da=true
+I 2021-11-03 04:42:30.512896 [FeatureManager] {Main} Feature changed: osi_limited_product_d9fa6516=true
+I 2021-11-03 04:42:30.512903 [FeatureManager] {Main} Feature changed: viper_show_on_beta_5bbf784c=true
+I 2021-11-03 04:42:30.512911 [FeatureManager] {Main} Feature changed: warcraft_iii_upgrade_05e4b09b=true
+I 2021-11-03 04:42:30.512916 [FeatureManager] {Main} Feature changed: wlby_show_on_beta_5bbf784c=true
+I 2021-11-03 04:42:30.512924 [FeatureManager] {Main} Feature changed: zeus_refresh_without_license_b63211e4=true
+I 2021-11-03 04:42:30.512930 [FeatureManager] {Main} Feature changed: zeus_show_on_beta_5bbf784c=true
+I 2021-11-03 04:42:30.521457 [FeatureManager] {Main} Feature changed: http_test=true tags=http_request_0
+I 2021-11-03 04:42:30.521486 [FeatureManager] {Main} Feature changed: shop_wish_list=true
+I 2021-11-03 04:42:30.521497 [FeatureManager] {Main} Feature changed: activision_auto_account_creation=true
+I 2021-11-03 04:42:30.521501 [FeatureManager] {Main} Feature changed: suggested_group_members=true
+I 2021-11-03 04:42:30.521507 [FeatureManager] {Main} Feature changed: all_games_v2=true
+I 2021-11-03 04:42:30.521511 [FeatureManager] {Main} Feature changed: all_games_new_badge=true
+I 2021-11-03 04:42:30.521515 [FeatureManager] {Main} Feature changed: collapsible_social_panel=true
+I 2021-11-03 04:42:30.521520 [FeatureManager] {Main} Feature changed: blizzard_profiles=true
+I 2021-11-03 04:42:30.521528 [FeatureManager] {Main} Feature changed: clear_chat_history=true
+I 2021-11-03 04:42:30.521532 [FeatureManager] {Main} Feature changed: mentions=true
+I 2021-11-03 04:42:30.521537 [FeatureManager] {Main} Feature changed: social_tab=true
+I 2021-11-03 04:42:30.521541 [FeatureManager] {Main} Feature changed: auto_update_optimization=true
+I 2021-11-03 04:42:30.521545 [FeatureManager] {Main} Feature changed: embedded_web_view=true
+I 2021-11-03 04:42:30.521550 [FeatureManager] {Main} Feature changed: group_privacy_settings=true
+I 2021-11-03 04:42:30.521555 [FeatureManager] {Main} Feature changed: appear_offline=true
+I 2021-11-03 04:42:30.521560 [FeatureManager] {Main} Feature changed: refresh_toast=true
+I 2021-11-03 04:42:30.521564 [FeatureManager] {Main} Feature changed: app_feedback_dialog=true
+I 2021-11-03 04:42:30.521568 [FeatureManager] {Main} Feature changed: browser_main_window=true
+I 2021-11-03 04:42:30.521573 [FeatureManager] {Main} Feature changed: chat_giphy=true
+I 2021-11-03 04:42:30.521577 [FeatureManager] {Main} Feature changed: content_ui=true
+I 2021-11-03 04:42:30.521582 [FeatureManager] {Main} Feature changed: multichats=true
+I 2021-11-03 04:42:30.521587 [FeatureManager] {Main} Feature changed: first_time_experience=true
+I 2021-11-03 04:42:30.521592 [FeatureManager] {Main} Feature changed: cts_takeovers=true
+I 2021-11-03 04:42:30.521596 [FeatureManager] {Main} Feature changed: friend_request_management=true
+I 2021-11-03 04:42:30.521600 [FeatureManager] {Main} Feature changed: link_previews=true
+I 2021-11-03 04:42:30.521604 [FeatureManager] {Main} Feature changed: sms_protect_requirements=true
+I 2021-11-03 04:42:30.521608 [FeatureManager] {Main} Feature changed: friends_list_popout=true
+I 2021-11-03 04:42:30.521612 [FeatureManager] {Main} Feature changed: gift_inventory=true
+I 2021-11-03 04:42:30.521616 [FeatureManager] {Main} Feature changed: global_legendary_promos=true
+I 2021-11-03 04:42:30.521620 [FeatureManager] {Main} Feature changed: refresh_friend_tooltip=true
+I 2021-11-03 04:42:30.521625 [FeatureManager] {Main} Feature changed: non_friend_whispers=true
+I 2021-11-03 04:42:30.521629 [FeatureManager] {Main} Feature changed: notification_center=true
+I 2021-11-03 04:42:30.521633 [FeatureManager] {Main} Feature changed: playscreen_migrate_cms=true
+I 2021-11-03 04:42:30.521637 [FeatureManager] {Main} Feature changed: shared_container_installs=true
+I 2021-11-03 04:42:30.521643 [FeatureManager] {Main} Feature changed: sc2_account_selection_dialog=true
+I 2021-11-03 04:42:30.521647 [FeatureManager] {Main} Feature changed: suggested_facebook_friends=true
+I 2021-11-03 04:42:30.521654 [FeatureManager] {Main} Feature changed: whisper_voice=true
+I 2021-11-03 04:42:30.521660 [FeatureManager] {Main} Feature changed: battle.net_http_request_0_c6caed0e=true
+D 2021-11-03 04:42:30.521745 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.13147\Environments.yaml
+D 2021-11-03 04:42:30.521861 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Environments.yaml
+I 2021-11-03 04:42:30.521918 [EnvironmentManager] {Main} Login parameters changed: address=us.actual.battle.net:1119 region=US
+D 2021-11-03 04:42:30.541555 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2021-11-03 04:42:30.541595 [CatalogVarStorage] {Main} Setting var from catalog Browser.DisableSiteIsolation=true
+D 2021-11-03 04:42:30.541630 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS,FORE
+D 2021-11-03 04:42:30.541645 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2021-11-03 04:42:30.541658 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2021-11-03 04:42:30.541680 [CatalogVarStorage] {Main} Setting var from catalog Client.Announcements.MaximumAnnouncements=20
+D 2021-11-03 04:42:30.541695 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2021-11-03 04:42:30.541710 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=3
+D 2021-11-03 04:42:30.541727 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+I 2021-11-03 04:42:30.541742 [VersionManager] {Main} Beta Access: enabled
+D 2021-11-03 04:42:30.541753 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2021-11-03 04:42:30.541790 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+I 2021-11-03 04:42:30.545152 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+I 2021-11-03 04:42:30.545208 [CatalogManager] {Main} Loaded initial catalog: hash=cefeaae67d6b5f7d8417a7e3b87c8473
+I 2021-11-03 04:42:30.646904 [WebServer] {Backend:0} Listening on port 22885
+I 2021-11-03 04:42:30.713131 [Main] {Main} Attempting to fetch WidevineCDM: 1
+D 2021-11-03 04:42:30.720795 [UI] {Main} Fixup allowed regions and locales. installedRegion=US allowedRegions= allowedLocales=
+I 2021-11-03 04:42:30.721114 [ToastManager] {Main} Toasts are enabled in ClientSettings
+D 2021-11-03 04:42:30.722705 [ProductState] {Main} Game product state created: uid=
+D 2021-11-03 04:42:30.722769 [ProductState] {Main} InstallState (): currentOperation=Install currentOperationStatus=New
+I 2021-11-03 04:42:30.757263 [Main] {Main} Application path is: C:\Program Files (x86)\Battle.net\Battle.net.exe
+I 2021-11-03 04:42:30.872990 [ClientServiceAlertMonitor] {Main} Breaking News url has changed. url=https://nydus.battle.net/App/enUS/client/App/alert?targetRegion=US
+D 2021-11-03 04:42:30.873252 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/enUS/client/App/alert?targetRegion=US
+I 2021-11-03 04:42:30.873299 [ClientServiceAlertMonitor] {Main} Maintenance url has changed. url=https://nydus.battle.net/App/enUS/client/App/maintenance?targetRegion=US
+D 2021-11-03 04:42:30.873451 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/enUS/client/App/maintenance?targetRegion=US
+I 2021-11-03 04:42:30.874956 [Frontend] {Main} Public Computer state changed. is_public=false
+D 2021-11-03 04:42:30.874984 [Frontend] {Main} Session id changed. session_id=11173221592180204227
+D 2021-11-03 04:42:30.875050 [Frontend] {Main} Tracking info changed. client_id=4E3A4618-F0C7-4782-B23B-E90E19E728CE, user_agent=
+I 2021-11-03 04:42:30.889156 [HighDpiManager] {Main} High dpi support available changed: 0
+I 2021-11-03 04:42:30.889188 [Frontend] {Main} High dpi support: disabled
+D 2021-11-03 04:42:30.890537 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Setup depth=-1
+D 2021-11-03 04:42:30.893651 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent depth=1
+D 2021-11-03 04:42:30.897200 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent\Agent.6891 depth=1
+D 2021-11-03 04:42:30.897605 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent\Agent.7380 depth=1
+D 2021-11-03 04:42:30.898279 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent\Agent.7531 depth=1
+D 2021-11-03 04:42:30.899188 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Blizzard Entertainment depth=2
+D 2021-11-03 04:42:30.937205 [Frontend] {Main} Session id changed. session_id=12749391293988140715
+I 2021-11-03 04:42:30.937433 [FeatureManager] {Main} Feature changed: install_packages=true
+I 2021-11-03 04:42:30.937455 [FeatureManager] {Main} Feature changed: modify_install=true
+I 2021-11-03 04:42:30.937856 [Agent] {Main} AgentManager is now initialized
+I 2021-11-03 04:42:30.937872 [InstallManager] {Main} Install manager is now initialized
+D 2021-11-03 04:42:30.937880 [InstallManager] {Main} Selecting best game install data for game battle.net: savedUid=battle.net originalUid=<none> newUid=battle.net
+D 2021-11-03 04:42:30.937896 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=battle.net agentUid=battle.net
+D 2021-11-03 04:42:30.937914 [InstallManager] {Main} Selecting best game install data for game prometheus: savedUid=prometheus originalUid=<none> newUid=prometheus
+D 2021-11-03 04:42:30.937924 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=prometheus agentUid=prometheus
+D 2021-11-03 04:42:30.937941 [InstallManager] {Main} Selecting best game install data for game s2: savedUid=s2_enus originalUid=<none> newUid=s2_enus
+D 2021-11-03 04:42:30.937952 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=s2 agentUid=s2_enus
+D 2021-11-03 04:42:30.937977 [VersionManager] {Main} Branch change from Agent detected. activeBranch= branches={[0]=beta, [1]=cn, [2]=eu, [3]=kr, [4]=sg, [5]=tw, [6]=us}
+D 2021-11-03 04:42:30.938001 [VersionManager] {Main} Beta branch is available: true
+D 2021-11-03 04:42:30.938046 [ProductState] {Main} Game product state created: uid=prometheus
+D 2021-11-03 04:42:30.938117 [ProductState] {Main} InstallState (prometheus): currentOperation=UpToDate currentOperationStatus=Paused installed=1 installPath=D:/Battlenet/Overwatch sharedContainerSubpath=_retail_ playable=1 canCreateShortcut=1 selectedRegion=us activeConfigKey=8c895694ea0d33f5962748eb38ad94b9 regionalVersions=(cn: {playable:true config_key:8c895694ea0d33f5962748eb38ad94b9}, eu: {playable:true config_key:8c895694ea0d33f5962748eb38ad94b9}, kr: {playable:true config_key:8c895694ea0d33f5962748eb38ad94b9}, us: {playable:true config_key:8c895694ea0d33f5962748eb38ad94b9}) localVersion=1.65.1.0.88742 latestVersion=88742 progress=1 currentStage=Complete
+D 2021-11-03 04:42:30.938158 [ProductState] {Main} Game product state created: uid=s2
+D 2021-11-03 04:42:30.938201 [ProductState] {Main} InstallState (s2): currentOperation=UpToDate currentOperationStatus=Paused installed=1 installPath=D:/Battlenet/StarCraft II playable=1 canCreateShortcut=1 selectedRegion=us activeConfigKey=5b0ac430559437ccd27dfafdfe526c6a regionalVersions=(cn: {playable:true config_key:5b0ac430559437ccd27dfafdfe526c6a}, eu: {playable:true config_key:5b0ac430559437ccd27dfafdfe526c6a}, kr: {playable:true config_key:5b0ac430559437ccd27dfafdfe526c6a}, tw: {playable:true config_key:5b0ac430559437ccd27dfafdfe526c6a}, us: {playable:true config_key:5b0ac430559437ccd27dfafdfe526c6a}) supports_multibox=true localVersion=5.0.8.86383 latestVersion=86383 progress=1 currentStage=Complete
+D 2021-11-03 04:42:30.938234 [Agent] {Main} Versioning is now enabled
+D 2021-11-03 04:42:30.938261 [Agent] {Main} Triggering game versioning: battle.net
+D 2021-11-03 04:42:30.938291 [Agent] {Main} Triggering game versioning: prometheus
+D 2021-11-03 04:42:30.938310 [Agent] {Main} Triggering game versioning: s2_enus
+D 2021-11-03 04:42:30.938501 [InstallManager] {Main} Sending a queued OnProcessPidsUpdated notification: agentUid=s2_enus binaryType=game
+D 2021-11-03 04:42:30.938528 [InstallManager] {Main} Sending a queued OnProcessRunning notification: agentUid=s2_enus binaryType=game
+I 2021-11-03 04:42:30.938541 [InstallManager] {Main} Setting Process Running: true uid=s2_enus binaryType=game any=true
+D 2021-11-03 04:42:30.938557 [InstallInfo] {Main} Operation status changed: opType=Execute oldStatus=Off newStatus=On agentUid=s2_enus
+D 2021-11-03 04:42:30.938567 [InstallManager] {Main} Game is running: s2
+I 2021-11-03 04:42:30.939344 [GameController] {Main} Pre-existing game session detected without a pending launch. Not performing game launch behavior.
+D 2021-11-03 04:42:30.939428 [ProductState] {Main} InstallState (s2): gameRunning=1 isGameProcessRunning=1
+I 2021-11-03 04:42:30.947119 [CatalogLoader] {Main} *** LOAD STARTED default: Context(LocalCAS: cefeaae67d6b5f7d8417a7e3b87c8473 I) ***
+I 2021-11-03 04:42:31.465843 [FeatureManager] {Main} Moving feature record from active to inactive: overwatch_league_tab
+I 2021-11-03 04:42:31.465863 [FeatureManager] {Main} Moving feature record from active to inactive: blizzcon_tab
+D 2021-11-03 04:42:31.475441 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2021-11-03 04:42:31.475468 [CatalogVarStorage] {Main} Setting var from catalog Browser.DisableSiteIsolation=true
+D 2021-11-03 04:42:31.475494 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS,FORE
+D 2021-11-03 04:42:31.475500 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2021-11-03 04:42:31.475505 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2021-11-03 04:42:31.475521 [CatalogVarStorage] {Main} Setting var from catalog Client.Announcements.MaximumAnnouncements=20
+D 2021-11-03 04:42:31.475528 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2021-11-03 04:42:31.475535 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=3
+D 2021-11-03 04:42:31.475542 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+D 2021-11-03 04:42:31.475547 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2021-11-03 04:42:31.475557 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+D 2021-11-03 04:42:31.475565 [CatalogVarStorage] {Main} Setting var from catalog Services.HTTPClient.ConnectionTimeoutMS=0
+I 2021-11-03 04:42:31.479466 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+I 2021-11-03 04:42:31.486314 [Main] {Main} Cached WidevineCDM is up-to-date: 4.10.2209.1
+I 2021-11-03 04:42:31.487260 [Main] {Main} Connecting to server. address=us.actual.battle.net port=1119
+D 2021-11-03 04:42:31.640957 [ClientServiceAlertMonitor] {Main} Service alert monitor force update requested
+D 2021-11-03 04:42:31.640976 [ClientServiceAlertMonitor] {Main} Breaking News update requested
+D 2021-11-03 04:42:31.640981 [ClientServiceAlertMonitor] {Main} Maintenance update requested
+D 2021-11-03 04:42:31.698184 [InstallManager] {Main} Game finished versioning s2_enus
+I 2021-11-03 04:42:31.714523 [CacheManager] {Main} CacheManager is now initialized
+I 2021-11-03 04:42:31.714776 [TactVersionWatcher] {Main} Fetched new tact metadata. productCode=catalogs region=us branch=PUB-29 version=2035 seq=184 buildConfig=c1fad7004112ca804672a2c5e7fb824b
+I 2021-11-03 04:42:31.749898 [DIAG_BuildConfig] {Main} no 'encoding' key in build configuration 'c1fad7004112ca804672a2c5e7fb824b', selecting plain-data mode
+I 2021-11-03 04:42:31.749926 [CatalogLoader] {Main} *** LOAD STARTED default: Context(RemoteCAS: cefeaae67d6b5f7d8417a7e3b87c8473|tpr/catalogs/data) ***
+D 2021-11-03 04:42:31.945888 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2021-11-03 04:42:31.945929 [CatalogVarStorage] {Main} Setting var from catalog Browser.DisableSiteIsolation=true
+D 2021-11-03 04:42:31.945941 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS,FORE
+D 2021-11-03 04:42:31.945950 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2021-11-03 04:42:31.945959 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2021-11-03 04:42:31.945982 [CatalogVarStorage] {Main} Setting var from catalog Client.Announcements.MaximumAnnouncements=20
+D 2021-11-03 04:42:31.945991 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2021-11-03 04:42:31.946002 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=3
+D 2021-11-03 04:42:31.946011 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+D 2021-11-03 04:42:31.946017 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2021-11-03 04:42:31.946028 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+D 2021-11-03 04:42:31.946036 [CatalogVarStorage] {Main} Setting var from catalog Services.HTTPClient.ConnectionTimeoutMS=0
+I 2021-11-03 04:42:31.962339 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+D 2021-11-03 04:42:32.766871 [LoginController] {Main} Login_QueueUpdate (position=1,clientWaitTime=00:00:00.548166,skipLoginQueueUi=true)
+D 2021-11-03 04:42:33.076443 [InstallManager] {Main} Game finished versioning battle.net
+I 2021-11-03 04:42:33.170811 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=battle.net, type=game, opStatus=On, reqId=0, running=2, oldRunning=0)
+I 2021-11-03 04:42:33.177290 [InstallManager] {Main} Setting Process Running: true uid=battle.net binaryType=game any=true
+D 2021-11-03 04:42:33.177345 [InstallInfo] {Main} Operation status changed: opType=Execute oldStatus=Off newStatus=On agentUid=battle.net
+D 2021-11-03 04:42:33.857732 [GameController] {Main} Shutting down GameController
+I 2021-11-03 04:42:33.857777 [GameController] {Main} Deleting GameFamily: , # of game accounts:0
+D 2021-11-03 04:42:33.857857 [ProductState] {Main} Game product state destroyed: uid=prometheus
+D 2021-11-03 04:42:33.857946 [ProductState] {Main} Game product state destroyed: uid=s2
+D 2021-11-03 04:42:33.857975 [ProductState] {Main} Game product state destroyed: uid=
+I 2021-11-03 04:42:33.858329 [ToastManager] {Main} Clearing toast queue
+D 2021-11-03 04:42:35.489227 [Main] {Main} Shutting down Backend
+D 2021-11-03 04:42:35.489254 [Main] {Main} Closing IPC Service
+D 2021-11-03 04:42:35.489262 [CommandQueue] {Main} IPCService is shutting down
+D 2021-11-03 04:42:35.489507 [Main] {Main} Shutting down account manager
+D 2021-11-03 04:42:35.489537 [Main] {Main} Shutting down CacheManager
+D 2021-11-03 04:42:35.489545 [Main] {Main} Shutting down analytics processor
+D 2021-11-03 04:42:35.489876 [Main] {Main} Shutting down worker pool
+D 2021-11-03 04:42:35.490281 [Main] {Main} Shutting down backend processor
+D 2021-11-03 04:42:35.492121 [Main] {Main} Shutting down data cache
+D 2021-11-03 04:42:35.492284 [Main] {Main} Shutting down catalog manager
+D 2021-11-03 04:42:35.493128 [Main] {Main} Shutting down environment manager
+D 2021-11-03 04:42:35.493158 [Main] {Main} Shutting down battle.net api gateway
+D 2021-11-03 04:42:35.493164 [Main] {Main} Shutting down suggested friends service
+D 2021-11-03 04:42:35.493170 [Main] {Main} Shutting down voice service
+D 2021-11-03 04:42:35.493176 [Main] {Main} Shutting down remote content manager
+D 2021-11-03 04:42:35.493180 [Main] {Main} Shutting down analytics session
+D 2021-11-03 04:42:35.493184 [Main] {Main} Shutting down agent manager
+D 2021-11-03 04:42:35.493192 [Agent] {Main} PolicyHandler Thread STOPPING
+D 2021-11-03 04:42:35.493204 [Agent] {Agent} PolicyHandlerThreadProc: The rest is silence.
+D 2021-11-03 04:42:35.493435 [Agent] {Main} PolicyHandler Thread STOPPED
+D 2021-11-03 04:42:35.494917 [Agent] {Main} Communicated shutdown to Agent
+D 2021-11-03 04:42:35.495033 [Main] {Main} Shutting down game provider
+D 2021-11-03 04:42:35.495056 [Main] {Main} Shutting down battle.net interface
+D 2021-11-03 04:42:35.741929 [Main] {Main} Shutting down callback queue
+D 2021-11-03 04:42:35.741984 [WebServer] {Main} Shutting down WebServerImpl
+D 2021-11-03 04:42:35.742423 [WebServer] {Main} WebServerImpl is stopped
+D 2021-11-03 04:42:35.850085 [DIAG_BNL_Voice] {Main} {b40c} debug: Notification client reference removed: 0

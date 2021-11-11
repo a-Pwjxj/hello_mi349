@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="version">1</entry>
+<entry key="sensitivity">1.0</entry>
+<entry key="accounts">{accounts:{"":{token:eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2MiOiI3MDcxOTMiLCJzY28iOiJwcm9maWxlLGdyb3VwLHN0YXRpY191cGxvYWQscHJvZmlsZV93cml0ZSxnYW1lLHBhcnR5X2NyZWF0ZSxwYXJ0eSxzdG9yZSxtZXNzYWdlX2xpc3RlbiIsInVpZCI6Ijg5MWUxZDI5LTNhYzctNGVjMS05NWVmLTMwZWYyMWE3Y2MyNCIsImlzcyI6ImxvZ2luIiwiZXhwIjoiMTUyMzkzMDk4MCIsImdtcyI6IjEiLCJpYXQiOiIxNTE4NzQ2OTgwIiwidW5tIjoic3RlYW06NzY1NjExOTgwODc0MDUzMzIifQ.KQAVGUUkqH8vgQpbz_6fQ9KlARGYglJ0b0Oy91JkMfdgFoXbGVpJ0-RX01vNjEdxynff_bHEjcMDe0GcDYyUzCy85C5IxHBxzprt_DUi_gQA9DIn3tqYHFA24bUQbJliE9McKlGUtrCvM1-k2pS6M-S-_-9iduhAkqJ_Q5_D50B8EspdXoXUeqOho417s3SJ3lvmXW-Pe2SRyna00WE7UPGOv7-NQdHQM_B-AlQ1no7rPuQL7PQoRoMyEp1keVcK_11s00OVI5qBGQcfxut9xSN_TZpFvg6uxFuBqC2yWT-v0hCbFEYSJ1uSbs38DO1j1Zip1D_2UJr07dX3X83alA,__S:kcWDjDCCr8lNBonqedPU8wuuXeq543CoNZTkkdDezhA=}}}</entry>
+</properties>

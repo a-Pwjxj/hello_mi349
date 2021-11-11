@@ -1,0 +1,36 @@
+[2020-11-21T20:03:32Z][..\source\main.cpp:475][INFO]: System Survey 2.4.1.48, Data Version 3, Git Revision v2.4.0.47-7-g0e76705e, Copyright (C) 2013 Blizzard Entertainment. All rights reserved.
+[2020-11-21T20:03:32Z][..\source\main.cpp:488][INFO]: Generating report...
+[2020-11-21T20:03:32Z][..\source\report.cpp:420][INFO]: sysinfo_get_system_product_info(system): successful
+[2020-11-21T20:03:32Z][..\source\report.cpp:421][INFO]: sysinfo_get_system_has_battery(system): successful
+[2020-11-21T20:03:32Z][..\source\report.cpp:422][INFO]: sysinfo_get_physical_memory(system): successful
+[2020-11-21T20:03:32Z][..\source\report.cpp:423][INFO]: sysinfo_get_bios_info(system): successful
+[2020-11-21T20:03:32Z][..\source\report.cpp:426][INFO]: sysinfo_get_vm_info(system): successful
+[2020-11-21T20:03:32Z][..\source\report.cpp:429][INFO]: sysinfo_get_os_info(system): successful
+[2020-11-21T20:03:32Z][..\source\report.cpp:432][INFO]: sysinfo_get_cpu_info(system): successful
+[2020-11-21T20:03:33Z][..\source\report.cpp:435][INFO]: sysinfo_get_video_adapters(system): successful
+[2020-11-21T20:03:33Z][..\source\report.cpp:438][INFO]: sysinfo_get_audio_devices(system): successful
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:272][ERROR]: HidD_GetManufacturerStringFunc(deviceObject, manufacturerWSTR, sizeof(manufacturerWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\sysinfo\win\hid_win.cpp:280][ERROR]: HidD_GetProductStringFunc(deviceObject, productWSTR, sizeof(productWSTR)): failed
+[2020-11-21T20:03:33Z][..\source\report.cpp:441][INFO]: sysinfo_get_input_devices(system): successful
+[2020-11-21T20:03:33Z][..\source\report.cpp:444][INFO]: sysinfo_get_storage_devices(system): successful
+[2020-11-21T20:03:33Z][..\source\report.cpp:447][INFO]: sysinfo_get_bluetooth_radios(system): successful
+[2020-11-21T20:03:33Z][..\source\report.cpp:450][INFO]: sysinfo_get_installed_products(report): successful
+[2020-11-21T20:03:33Z][..\source\main.cpp:530][INFO]: report uuid: 01BFF7B3-6A55-4899-8A49-D664D6BA36D2
+[2020-11-21T20:03:33Z][..\source\main.cpp:531][INFO]: user uuid: 7E100964-629B-49E3-B2AA-2ECA592743BF
+[2020-11-21T20:03:33Z][..\source\main.cpp:532][INFO]: report datetime: 2020-11-21T20:03:32Z
+[2020-11-21T20:03:33Z][..\source\main.cpp:534][INFO]: report system uuid: 4D7F81E8-865F-9BD3-F62D-3615B3DDE685
+[2020-11-21T20:03:33Z][..\source\main.cpp:164][INFO]: Sending Report...
+[2020-11-21T20:03:34Z][..\source\main.cpp:213][INFO]: Report successfully sent!
+[2020-11-21T20:03:34Z][..\source\main.cpp:549][INFO]: Exit value: 0
